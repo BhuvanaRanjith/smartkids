@@ -1,4 +1,4 @@
 <resources>
 
-    <style name="Theme.Smartkid" parent="Theme.AppCompat.DayNight.NoActionBar" />
+    <style name="Theme.Janani" parent="@style/Theme.Leanback" />
 </resources>
